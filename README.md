@@ -1,6 +1,6 @@
 # ember-cli-openapi-generate
 
-Generate Ember models from an OpenAPI schema.
+Generate Ember models from an OpenAPI schema. (extra commit to allow remote install)
 
 ## Installation
 
